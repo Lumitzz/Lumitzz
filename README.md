@@ -44,9 +44,10 @@
 
 ### 🐍 Snake Game
 
-<div align="center">
-  <img src="https://github.com/Carlos/Carlos/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</div>
+## Snake Game
+
+![snake gif](https://github.com/carlosemanuel03/Lumitzz/blob/output/github-contribution-grid-snake.svg)
+
 
 ##
 
