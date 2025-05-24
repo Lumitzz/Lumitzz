@@ -42,14 +42,7 @@
 
 ##
 
-### 🐍 Snake Game
 
-## Snake Game
-
-![snake gif](https://github.com/carlosemanuel03/Lumitzz/blob/output/github-contribution-grid-snake.svg)
-
-
-##
 
 <p align="center">
   🌟 Obrigado por visitar meu perfil! 🌟
