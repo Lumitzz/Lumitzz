@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="100%" src="./assets/sukuna-header.png" alt="Carlos Emanuel - Sukuna Malevolent Shrine Banner" />
+  <img width="100%" src="./assets/sukuna-header.gif" alt="Sukuna Header Banner" />
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -108,5 +110,9 @@ foco:
 <br />
 
 <div align="center">
-  <img width="100%" src="./assets/sukuna-footer.png" alt="Obrigado por visitar meu perfil - Sukuna Footer Banner" />
+  <img width="100%" src="./assets/sukuna-footer.gif" alt="Sukuna Fire Arrow Footer GIF" />
 </div>
+
+<p align="center">
+  🔥 <b>Obrigado por visitar meu perfil!</b> 🔥
+</p>
