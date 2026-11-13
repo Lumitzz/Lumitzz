@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+%F0%9F%91%8B;Estagi%C3%A1rio+no+Banco+do+Brasil+%F0%9F%8F%A6;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%8E%93;Expans%C3%A3o+de+Dom%C3%ADnio%3A+C%C3%B3digo+Infinito+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Emanuel;Estagi%C3%A1rio+no+Banco+do+Brasil;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Expans%C3%A3o+de+Dom%C3%ADnio%3A+C%C3%B3digo+Infinito" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,30 +26,30 @@
 
 ---
 
-### ⛩️ Sobre Mim
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23e63946" width="22" valign="middle" /> Sobre Mim
 
 <img align="right" src="https://i.pinimg.com/originals/c3/e1/e4/c3e1e47113a4bea928309e341b245dac.gif" width="270" alt="Sukuna Jujutsu Kaisen GIF" />
 
 ```yaml
 nome: "Carlos Emanuel da Silva Santos"
-localizacao: "Brasília - DF, Brasil 🇧🇷"
-atuacao: "Estagiário no Banco do Brasil 🏦"
-formacao: "Ciência da Computação - UDF 🎓"
+localizacao: "Brasília - DF, Brasil"
+atuacao: "Estagiário no Banco do Brasil"
+formacao: "Ciência da Computação - UDF"
 foco:
   - "Desenvolvimento Back-end & Web"
   - "Estrutura de Dados & Banco de Dados"
   - "Aprendizado Contínuo"
 ```
 
-- 🔭 Atualmente atuando como **Estagiário no Banco do Brasil** e desenvolvendo projetos acadêmicos e pessoais.
-- 🌱 Aprimorando conhecimentos em **Python, PHP, SQL e Desenvolvimento Web**.
-- 🔥 Sempre em busca de novos desafios para evoluir como desenvolvedor de software.
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23e63946" width="16" valign="middle" /> Atualmente atuando como **Estagiário no Banco do Brasil** e desenvolvendo projetos acadêmicos e pessoais.
+- <img src="https://api.iconify.design/lucide/code-2.svg?color=%23e63946" width="16" valign="middle" /> Aprimorando conhecimentos em **Python, PHP, SQL e Desenvolvimento Web**.
+- <img src="https://api.iconify.design/lucide/flame.svg?color=%23e63946" width="16" valign="middle" /> Sempre em busca de novos desafios para evoluir como desenvolvedor de software.
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### <img src="https://api.iconify.design/lucide/cpu.svg?color=%23e63946" width="22" valign="middle" /> Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,php,mysql,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack" />
@@ -68,7 +68,7 @@ foco:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23e63946" width="22" valign="middle" /> Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/Lumitzz">
@@ -83,7 +83,7 @@ foco:
 
 ---
 
-### 🐍 Minhas Contribuições
+### <img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%23e63946" width="22" valign="middle" /> Minhas Contribuições
 
 <div align="center">
   <picture>
@@ -95,11 +95,11 @@ foco:
 
 ---
 
-### ✨ Frase que me inspira
+### <img src="https://api.iconify.design/lucide/quote.svg?color=%23e63946" width="22" valign="middle" /> Frase que me inspira
 
 <div align="center">
   <blockquote>
-    <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> 🔥
+    <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
   </blockquote>
 </div>
 
@@ -114,5 +114,5 @@ foco:
 </div>
 
 <p align="center">
-  🔥 <b>Obrigado por visitar meu perfil!</b> 🔥
+  <img src="https://api.iconify.design/lucide/flame.svg?color=%23e63946" width="18" valign="middle" /> <b>Obrigado por visitar meu perfil!</b> <img src="https://api.iconify.design/lucide/flame.svg?color=%23e63946" width="18" valign="middle" />
 </p>
